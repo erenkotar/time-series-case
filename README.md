@@ -1,2 +1,2 @@
-# PI_WORKS
-This repo includes the technical assesment conducted by P.I. Works
+# time-series case
+This repo includes the technical assessment that is related with time-series forecasting
